@@ -1,0 +1,15 @@
+
+
+# Ignore large pretrained model
+models/colorization_release_v2.caffemodel
+
+# Ignore virtual environment folder
+venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore system files (optional)
+.DS_Store
+Thumbs.db
